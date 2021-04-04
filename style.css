@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+    background-color: lightblue;
+}
+#bodie {
+    background-color: lightcyan;
+    text-align:center;
+}
+#items{
+    width: 200px;
+    height : 150px;
+    margin-left: 260;
+}
+#label {
+    color: darkblue;
+    font-family: 'Brygada 1918', serif;
+}
+#buisnesslogo {
+    font-family: 'Crete Rounds', serif;
+}
+#mycarousel {
+    background-color: lightpink;
+}
+#mycarousel {
+    margin-top: 35px;
+}
+#clothes{
+    width: 180px;
+    height: 200px;
+}
+#shoes{
+    width: 180px;
+    height: 200px;
+    margin-right: 200px; 
+    margin-bottom: 15px;
+}
+#accessories{
+    width: 180px;
+    height: 200px;
+    margin-right: 200px;
+    margin-bottom: 15px;
+}
+shoezz {
+    size: 180px;
+    margin-right: 135px;
+}
+
+heading4 {
+    color: royalblue;
+    font-family: serif;
+}
+
