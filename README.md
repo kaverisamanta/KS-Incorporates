@@ -1,0 +1,1 @@
+The project KS Incorporates is a website that allows a user to shop for whatever they desire. The beginning page gives you many options on different categories to shop in, and once you select what you want, you are lead to an area with countless options of things within that category.
